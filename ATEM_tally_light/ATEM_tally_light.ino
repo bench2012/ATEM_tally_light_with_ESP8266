@@ -26,14 +26,14 @@
 #include <TallyServer.h>
 
 //Define LED1 color pins
-#define PIN_RED1    D0
-#define PIN_GREEN1  D2
-#define PIN_BLUE1   D1
+#define PIN_RED1    D4
+#define PIN_GREEN1  D6
+#define PIN_BLUE1   D5
 
 //Define LED2 color pins
-#define PIN_RED2    D4
-#define PIN_GREEN2  D5
-#define PIN_BLUE2   D6
+#define PIN_RED2    D0
+#define PIN_GREEN2  D2
+#define PIN_BLUE2   D1
 
 //Define LED colors
 #define LED_OFF     0
