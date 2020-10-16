@@ -25,7 +25,7 @@
 #include <ATEMmin.h>
 #include <TallyServer.h>
 
-//Define LED1 color pins
+//Define LED1 color pins for Magichome RGB ZJ-WFMN-A V1.1 LED Controller
 #define PIN_RED1    5
 #define PIN_GREEN1  12
 #define PIN_BLUE1   13
