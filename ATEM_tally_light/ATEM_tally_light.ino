@@ -25,7 +25,7 @@
 #include <ATEMmin.h>
 #include <TallyServer.h>
 
-//Define LED1 color pins
+//Define LED1 color pins for WEMOS D1 R1
 #define PIN_RED1    D4
 #define PIN_GREEN1  D6
 #define PIN_BLUE1   D5
